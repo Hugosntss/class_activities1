@@ -1,5 +1,5 @@
 # Class activitiies
 
-1. Temeperature list
-2. Factorial number
-3. Secret number
+1. Temperature list
+3. Factorial number
+4. Secret number
